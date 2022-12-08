@@ -1,0 +1,30 @@
+{
+    "sidebar": [
+        {
+            "category": "Vertretungsplan",
+            "color": "white",
+            "documents": [
+                {
+                    "text": "Montag",
+                    "file": "/pdf/montag.pdf#toolbar=0"
+                },
+                {
+                    "text": "Dienstag ",
+                    "file": "/pdf/dienstag.pdf#toolbar=0"
+                },
+                {
+                    "text": "Mittwoch",
+                    "file": "/pdf/mittwoch.pdf#toolbar=0"
+                },
+                {
+                    "text": "Donnerstag",
+                    "file": "/pdf/donnerstag.pdf#toolbar=0"
+                },
+                {
+                    "text": "Freitag",
+                    "file": "/pdf/freitag.pdf#toolbar=0"
+                }
+            ]
+        }
+    ]
+}
